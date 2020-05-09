@@ -1,0 +1,2 @@
+# StockAnalyzing
+Training for NN
